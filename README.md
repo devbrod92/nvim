@@ -1,6 +1,6 @@
 # Devbrod's nvim dotfiles
 
-![neovim setuo](./images/neovim.png)
+![neovim setuo](./images/nvim.png)
 
 ## Configs
 
