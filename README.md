@@ -27,24 +27,24 @@
 ```
 📂 ~/AppData/Local/nvim
 ├── 📂 lua/
-│	    └── 🌑 c-base.lua 
-|     └── 🌑 c-bookmark.lua
-│	    └── 🌑 c-cmp.lua 
-|     └── 🌑 c-line.lua
-│	    └── 🌑 c-lsp.lua 
-|     └── 🌑 c-lspkind.lua
-│	    └── 🌑 c-lspsaga.lua 
-|     └── 🌑 c-maps.lua
-│	    └── 🌑 c-mason.lua 
-|     └── 🌑 c-null.lua
-│	    └── 🌑 c-snip.lua 
-|     └── 🌑 c-style.lua
-│	    └── 🌑 c-telescope.lua 
-|     └── 🌑 c-text.lua
-│	    └── 🌑 c-theme.lua 
-|     └── 🌑 c-tree.lua
-│	    └── 🌑 c-treesitter.lua 
-|     └── 🌑 plugins.lua
+│	      🌑 c-base.lua 
+|       🌑 c-bookmark.lua
+│	      🌑 c-cmp.lua 
+|       🌑 c-line.lua
+│	      🌑 c-lsp.lua 
+|       🌑 c-lspkind.lua
+│	      🌑 c-lspsaga.lua 
+|       🌑 c-maps.lua
+│	      🌑 c-mason.lua 
+|       🌑 c-null.lua
+│	      🌑 c-snip.lua 
+|       🌑 c-style.lua
+│	      🌑 c-telescope.lua 
+|       🌑 c-text.lua
+│	      🌑 c-theme.lua 
+|       🌑 c-tree.lua
+│	      🌑 c-treesitter.lua 
+|       🌑 plugins.lua
 └── 🌑 init.lua
 ```
 
